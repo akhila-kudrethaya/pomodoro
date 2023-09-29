@@ -52,11 +52,11 @@ No additional dependencies are required.
 You can configure the work and break durations as well as other settings by editing the `main.py` file. Here's an example of the configuration file:
 
 ```json
-{
+
   WORK_MIN = 25
   SHORT_BREAK_MIN = 5
   LONG_BREAK_MIN = 20
-}
+
 ```
 
 - `WORK_MIN`: Duration of each work session in minutes.
