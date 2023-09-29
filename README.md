@@ -25,7 +25,7 @@ A simple Python Pomodoro Timer app that helps you stay productive by tracking wo
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/your-username/pomodoro.git
+   git clone https://github.com/akhila-kudrethaya/pomodoro.git
    ```
 
 2. Change to the project directory:
