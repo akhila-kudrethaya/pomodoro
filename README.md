@@ -78,5 +78,3 @@ If you'd like to contribute to this project, please follow these steps:
 
 This Pomodoro Timer is licensed under the [MIT License](LICENSE).
 ```
-
-Feel free to customize this README file according to your project's specific details and requirements. Make sure to replace `https://github.com/your-username/pomodoro-timer.git` with the actual URL of your Git repository.
